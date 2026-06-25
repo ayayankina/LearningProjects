@@ -6,12 +6,12 @@
 
 ## Стек
 
-**Языки и среда:** Python, Jupyter Notebook, Google Colab
-**Библиотеки:** NumPy, pandas, scikit-learn, PyTorch, RDKit, matplotlib, seaborn
-**ML / Data Science:** регрессия, классификация, кластеризация, PCA, подбор гиперпараметров, оценка качества моделей
-**Deep Learning:** полносвязные нейросети, CNN, GAN, conditional GAN
-**NLP:** multi-label classification, fine-tuning, zero-shot classification, Hugging Face Transformers
-**Хемоинформатика:** SMILES, RDKit descriptors, Morgan fingerprints, QSAR / QSPR
+- **Языки и среда:** Python, Jupyter Notebook, Google Colab
+- **Библиотеки:** NumPy, pandas, scikit-learn, PyTorch, RDKit, matplotlib, seaborn
+- **ML / Data Science:** регрессия, классификация, кластеризация, PCA, подбор гиперпараметров, оценка качества моделей
+- **Deep Learning:** полносвязные нейросети, CNN, GAN, conditional GAN
+- **NLP:** multi-label classification, fine-tuning, zero-shot classification, Hugging Face Transformers
+- **Хемоинформатика:** SMILES, дескрипторы RDKit, Morgan fingerprints, QSAR / QSPR
 
 ## Проекты
 
